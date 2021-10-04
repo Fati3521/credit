@@ -81,4 +81,4 @@ $ git push heroku master
 
 ## Auteur
 
-**Nalron** *(Nicolas Pasero)* [Persona](https://nalron.com) - *Initial work* - [Github](https://github.com/nalron)
+**fati3521** *(Fatemeh Pourjavad* [Persona] - *Initial work* - [Github](https://github.com/Fati3521)
