@@ -4,8 +4,7 @@ L’entreprise souhaite développer un **modèle de scoring de la probabilité d
 
 
 ## Dashboard Scoring Credit
-[Web App from Heroku](https://bank-credit-risk.herokuapp.com/) & [Sharing Streamlit](https://share.streamlit.io/nalron/project_credit_scoring_model/app/app.py)
-
+[Web App from Heroku](https://dashboard.heroku.com/apps/creditbanque/) 
 
 L'application répond au **cahier des charges** suivant :
  - Permettre de visualiser le score et l’interprétation de ce score pour chaque client pour une personne non experte en data science.
@@ -81,4 +80,4 @@ $ git push heroku master
 
 ## Auteur
 
-**fati3521** *(Fatemeh Pourjavad* [Persona] - *Initial work* - [Github](https://github.com/Fati3521)
+**Fati3521** *(Fatemeh Pourjavad* [Persona] - *Initial work* - [Github](https://github.com/Fati3521)
