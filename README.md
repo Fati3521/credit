@@ -80,4 +80,4 @@ $ git push heroku master
 
 ## Auteur
 
-**Fati3521** *(Fatemeh Pourjavad* - *Initial work* - [Github](https://github.com/Fati3521)
+**Fati3521** *(Fatemeh Pourjavad)* - *Initial work* - [Github](https://github.com/Fati3521)
